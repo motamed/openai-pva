@@ -68,7 +68,7 @@ Integrate Azure OpenAI Services with PVA with maintaing Context as a Global Vara
 
 9. Do the same with **OpenAPI-GPT35_URL** and set the default value to the **Endpoint URL**.
 
-10. One left pane click on **Chatbots** and open **GV-OpenAI** its going to redirect you to the PVA page and thats it !
+10. On the left pane click on **Chatbots** and open **GV-OpenAI** its going to redirect you to the PVA page and thats it !
 
 </br>
 </br>
