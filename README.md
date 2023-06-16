@@ -175,7 +175,7 @@ Integrate Azure OpenAI Services with PVA with maintaing Context as a Global Vara
 
 40. Under body field add this line : 
     </br>
-    ```json
+    ```
     {
       "messages": @{variables('globalVariable')},
       "temperature": 0.7,
