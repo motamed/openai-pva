@@ -1,4 +1,4 @@
-# OpenAI in Power Virtual Agent
+# OpenAI (Chat GPT) in Power Virtual Agent
 
 - [OpenAI in Power Virtual Agent](#openai-in-power-virtual-agent)
     - [Summary](#summary)
