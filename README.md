@@ -70,6 +70,9 @@ Integrate Azure OpenAI Services with PVA with maintaing Context as a Global Vara
 
 10. One left pane click on **Chatbots** and open **GV-OpenAI** its going to redirect you to the PVA page and thats it !
 
+</br>
+</br>
+
 ## ( Option 2 ) Manually Setup PVA and Flow with Context
 
 1. Head to [https://web.powerva.microsoft.com/](https://web.powerva.microsoft.com/)
