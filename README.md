@@ -3,9 +3,9 @@
 - [OpenAI in Power Virtual Agent](#openai-in-power-virtual-agent)
     - [Summary](#summary)
     - [Step by Step Guide](#step-by-step-guide)
-  - [Provisioning Azure Open AI Services](#provisioning-azure-open-ai-services)
-  - [( Option 1 ) Import Preconfigured PVA with Context](#-option-1--import-preconfigured-pva-with-context)
-  - [( Option 2 ) Manually Setup PVA and Flow with Context](#-option-2--manually-setup-pva-and-flow-with-context)
+      - [Provisioning Azure Open AI Services](#provisioning-azure-open-ai-services)
+      - [( Option 1 ) Import Preconfigured PVA with Context](#-option-1--import-preconfigured-pva-with-context)
+      - [( Option 2 ) Manually Setup PVA and Flow with Context](#-option-2--manually-setup-pva-and-flow-with-context)
 
 ### Summary
 
