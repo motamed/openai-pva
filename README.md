@@ -151,7 +151,7 @@ Integrate Azure OpenAI Services with PVA with maintaing Context as a Global Vara
     </br>
 29. Now we need to format the User input as JSON and append it to Context/HIstory Array so we can pass the whole context to the OpenAI API.
 
-30. Create and Action and search from **Compose**
+30. Create and Action and search for **Compose**
 
 31. Add this to the Inputs`{"role": "user","content": "@{variables('Input-from-user')}"}`
 
